@@ -1,0 +1,22 @@
+.expense-item__date {
+    padding: 1.2rem;
+    border: 2px #fff solid;
+    border-radius: 8px;
+
+    text-align: center;
+}
+
+.expense-item__year {
+    font-size: 1.2rem;
+}
+
+.expense-item__month {
+    font-size: 1.2rem;
+    margin-bottom: .4rem;
+    text-transform: uppercase;
+}
+
+.expense-item__day {
+    font-size: 2rem;
+    margin-bottom: .4rem;
+}

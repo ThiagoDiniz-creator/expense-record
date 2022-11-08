@@ -1,0 +1,9 @@
+.expense-item__price {
+    font-size: 2rem;
+    line-height: 1.7;
+    color: #fff;
+
+    border-radius: 8px;
+    padding: 0.4rem 0.8rem;
+    margin-left: auto;
+}
